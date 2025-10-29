@@ -1,0 +1,78 @@
+streams: 
+  1: {name: #HIDDEN, fluid: #HIDDEN}
+    ##################
+    ##HIDDEN PORTION##
+    ##################
+  1007: {name: #HIDDEN, fluid: #HIDDEN}
+units: 
+####################HIDDEN####################
+  #HIDDEN:
+    name: #HIDDEN
+    type: conveyor
+    inlets: #HIDDEN
+    outlets: #HIDDEN
+    ##################
+    ##HIDDEN PORTION##
+    ##################
+
+#######################################################
+####################HIDDEN####################
+    ##################
+    ##HIDDEN PORTION##
+    ##################
+#######################################################
+#####################HIDDEN####################
+  #HIDDEN:
+    name: Conditioner
+    type: Spray Column
+    inlets: #HIDDEN
+    outlets: #HIDDEN
+    exit temperature: #HIDDEN
+    water exit temperature: #HIDDEN
+    dust removal efficiency: #HIDDEN
+    dP: #HIDDEN
+    drift: #HIDDEN
+    ##################
+    ##HIDDEN PORTION##
+    ##################
+############################################################
+    ##################
+    ##HIDDEN PORTION##
+    ##################
+#############################################################
+design: 
+  feed:
+    description: #HIDDEN
+    moisture: #HIDDEN
+    proximate composition dry: #HIDDEN
+    ultimate analysis dry: #HIDDEN
+    bulk density: #HIDDEN
+    particle density: #HIDDEN
+    calorific value dry: #HIDDEN
+    diameter 20pc passing: #HIDDEN        
+    diameter 99pc passing: #HIDDEN
+    flowability: #HIDDEN
+    angle of repose: #HIDDEN
+    nominal feed rate: #HIDDEN
+    temperature: 25 °C
+    
+  product:
+############
+###HIDDEN###
+############
+  fuel:
+    gas type: "Natural Gas"
+    gas pressure g: 140 kPa
+    density: 0.65 kg/m³
+    gas composition:
+      CH4: 97 pbm
+      C2H6: 0.919 pbm
+      C3H8: 0.363 pbm
+      C4H10: 0.162 pbm
+      CO2: 0.527 pbm
+      N2: 0.936 pbm
+      O2: 0.093 pbm
+############
+###HIDDEN###
+############
+
